@@ -1,4 +1,4 @@
-# [Suggested Capstone Workflow for References](https://github.com/ivanadr)
+# Suggested Capstone Workflow for References
 - Ivana Drabova
 - version: 11 September 2022
 
