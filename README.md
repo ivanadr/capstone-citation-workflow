@@ -1,5 +1,6 @@
 # Suggested Capstone Workflow for References
-- Ivana Drabova
+## info
+- author: Ivana Drabova
 - version: 11 September 2022
 
 ## Zotero
