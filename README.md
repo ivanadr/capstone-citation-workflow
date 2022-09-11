@@ -1,4 +1,6 @@
-# Suggested Capstone Workflow for References
+# [Suggested Capstone Workflow for References](https://github.com/ivanadr)
+- Ivana Drabova
+- version: 11 September 2022
 
 ## Zotero
 
