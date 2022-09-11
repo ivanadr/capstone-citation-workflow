@@ -9,9 +9,14 @@
     - [https://www.youtube.com/watch?v=N91hxjqlQNs&ab_channel=HollyJane](https://www.youtube.com/watch?v=N91hxjqlQNs&ab_channel=HollyJane)
     - [https://www.youtube.com/watch?v=4Z_5tskdNsY&t=910s&ab_channel=Dr.JingjingLin](https://www.youtube.com/watch?v=4Z_5tskdNsY&t=910s&ab_channel=Dr.JingjingLin)
 - Zotero takes 30 minutes to learn, ideally before having more than 15 references
-- download pdf of each paper into Zotero
-- annotate in the Zotero ipad app or the desktop app (or both) (I think this is better than saving it into Goodnotes)
-- when writing, either insert reference manually or from Zotero, or just keep track of things that you have read
+## pdfs
+- download **pdf** of each paper into Zotero
+- annotate the pdf in the Zotero ipad app or the desktop app (or both) 
+- I think this is better than saving it into Goodnotes becasue one does not have to name it each time
+- export highlights, or create notes form the page in a separate file
+- when writing drafts, either insert reference manually or from Zotero, or just keep track of things that you have read
+
+## Notion
 - For Notion users: there seems to be a plugin called Notero (Notion + Zotero)  [https://www.youtube.com/watch?v=8IC8-mPbjCo&t=374s&ab_channel=HollyJane](https://www.youtube.com/watch?v=8IC8-mPbjCo&t=374s&ab_channel=HollyJane)
 
 ## Citation style
